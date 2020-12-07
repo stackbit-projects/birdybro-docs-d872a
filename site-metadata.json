@@ -72,7 +72,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "github",
+                "label": "Github",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
