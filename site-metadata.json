@@ -73,7 +73,7 @@
         "social_links": [
             {
                 "label": "Github",
-                "url": "lorem-ipsum",
+                "url": "https://github.com/birdybro",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
